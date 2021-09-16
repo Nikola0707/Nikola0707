@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola Ristoski</h1>
-<h3 align="center">A passionate MERN Stack developer baseed in Skopje, Macedonia</h3>
+<h3 align="center">A passionate MERN Stack developer based in Skopje, Macedonia</h3>
 
 <p align="left">
   
