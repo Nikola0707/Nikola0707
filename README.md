@@ -2,10 +2,10 @@
 <h3 align="center">MERN Stack developer based in Skopje, Macedonia</h3>
 
 <p align="left">
-  
-  - :mortar_board: Bachelor of Information Technology
 
-- :mag: Software Engineer
+- :technologist: Software Engineer
+  
+- :mortar_board: Bachelor of Information Technology
 
 - 👯 I’m looking to collaborate on **open source MERN Stack projects**
 
