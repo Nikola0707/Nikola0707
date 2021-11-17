@@ -5,7 +5,7 @@
   
   - :mortar_board: Bachelor of Information Technology
 
-- :mag: I'm looking for MERN Stack entry level job
+- :mag: Software Engineer
 
 - 👯 I’m looking to collaborate on **open source MERN Stack projects**
 
