@@ -3,7 +3,7 @@
 
 <p align="left">
 
-- :technologist: Software Engineer
+- :technologist: JavaScript Engineer
   
 - :mortar_board: Bachelor of Information Technology
 
